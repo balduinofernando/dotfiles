@@ -1,0 +1,11 @@
+# BEGIN_KITTY_THEME
+
+font_family MesloLGS NF
+bold_font MesloLGS NF Bold
+italic_font MesloLGS NF Italic
+bold_italic_font MesloLGS Bold Italic
+font_size 12
+
+# Catppuccin-Mocha
+include current-theme.conf
+# END_KITTY_THEME

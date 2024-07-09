@@ -1,0 +1,12 @@
+configuration {
+  display-run:"Open:";
+  display-drun:"󰀻 Apps";
+  display-window: "  Open Windows:";
+  drun-display-format: "{icon} {name}";
+  font: "Fira Code Nerd Font Regular 15";
+  modi: "window,run,drun";
+  show-icons: true;
+  icon-theme: "Flat-Remix-Blue-Light";
+}
+
+@theme "~/.config/rofi/catppuccin-mocha.rasi"
